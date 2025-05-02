@@ -55,6 +55,5 @@ npm start
 The app will be available at http://localhost:3000.
 
 ### Project Image
-![pokemon](https://github.com/user-attachments/assets/ab6b35c4-a73a-4f05-bdf8-48835ddf676b)
-
+![pokemon](https://github.com/user-attachments/assets/f0e8f9f5-332f-4fe2-b89d-75792b8a0a19)
 
